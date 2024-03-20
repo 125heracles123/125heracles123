@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-Hello!📣 I'm Hiroshi, a skilled full-stack developer👨‍💻 experienced in both front-end and back-end development. I excel in creating intuitive user interfaces using frameworks like React, Angular, and Vue.js, while also designing robust APIs and implementing secure authentication on the back end. With a proactive problem-solving mindset and a passion for clean code, I'm dedicated to delivering cutting-edge solutions that exceed expectations. 🎉Let's collaborate and bring your ideas to life✨!
+Hello!📣 I'm Hiroshi, a skilled Front-end and AI developer👨‍💻 experienced in both front-end  I excel in creating intuitive user interfaces using frameworks like React,Wordpress , Angular, and Vue.js, while also designing robust APIs and implementing secure authentication on the back end. With a proactive problem-solving mindset and a passion for clean code, I'm dedicated to delivering cutting-edge solutions that exceed expectations. 🎉Let's collaborate and bring your ideas to life✨!
 </p>
 
 <br/>
@@ -38,7 +38,7 @@ const VikashPR = {
    askMeAbout: ["Web Development", "Cycling", "Discord", "IoT"],
    technologies: {
        frontEnd: {
-           js: ["Vue.js", "React.js", "Next.js", "Nuxt.js"]
+           js: ["Vue.js", "React.js", "Next.js", "Nuxt.js" " Wordpress"]
        },
        backEnd: {
            basS: ["Firebase"]
